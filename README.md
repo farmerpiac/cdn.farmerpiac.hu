@@ -1,1 +1,2 @@
 # cdn.farmerpiac.hu
+alma
